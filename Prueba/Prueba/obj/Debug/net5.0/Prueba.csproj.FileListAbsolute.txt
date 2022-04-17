@@ -1,0 +1,16 @@
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\bin\Debug\net5.0\Prueba.exe
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\bin\Debug\net5.0\Prueba.deps.json
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\bin\Debug\net5.0\Prueba.runtimeconfig.json
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\bin\Debug\net5.0\Prueba.runtimeconfig.dev.json
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\bin\Debug\net5.0\Prueba.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\bin\Debug\net5.0\Prueba.pdb
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\obj\Debug\net5.0\Prueba.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\obj\Debug\net5.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\obj\Debug\net5.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\obj\Debug\net5.0\Prueba.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\obj\Debug\net5.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\obj\Debug\net5.0\Prueba.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\obj\Debug\net5.0\refint\Prueba.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\obj\Debug\net5.0\Prueba.pdb
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\obj\Debug\net5.0\Prueba.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\Prueba\Prueba\obj\Debug\net5.0\ref\Prueba.dll

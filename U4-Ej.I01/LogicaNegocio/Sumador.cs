@@ -7,9 +7,9 @@ namespace LogicaNegocio
         private int cantidadSumas;
 
         public Sumador():this(0)
-        { 
+        {
+                    
         }
-
         public Sumador(int cantidadSumas)
         { 
             this.cantidadSumas = cantidadSumas; 
@@ -30,7 +30,7 @@ namespace LogicaNegocio
             return s.cantidadSumas; 
         }
 
-        public static long operator +(Sumador s1, Sumador s2)
+        public static long operator + (Sumador s1, Sumador s2)
         { 
             return (int) s1 + (int) s2;
         }
