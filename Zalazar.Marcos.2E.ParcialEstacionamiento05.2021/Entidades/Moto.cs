@@ -42,7 +42,7 @@ namespace Entidades
                 return tipo.ToString();
             }
         }
-        public double ValorHora
+        public static double ValorHora
         {
             set
             {
@@ -61,17 +61,17 @@ namespace Entidades
 
         protected override string MostrarDatos()
         {
-            return $"****MOTO*****" + this.Descripcion;
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"{base.MostrarDatos()}");
+            sb.AppendLine("****MOTO*****");
+            sb.AppendLine($"{this.Descripcion}");
 
+            return sb.ToString();
         }
 
-        public new string ToString()
+        public override string ToString()
         {
             return MostrarDatos();
         }
-
-
-
-
     }
 }

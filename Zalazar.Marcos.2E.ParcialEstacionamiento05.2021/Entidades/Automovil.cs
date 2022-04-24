@@ -24,7 +24,7 @@ namespace Entidades
         {
             get
             {
-                return valorHora * ((this.HoraEgreso-this.HoraIngreso).TotalHours);
+                return this.CargoDeEstacionamiento();
             }
         }
 
@@ -49,17 +49,21 @@ namespace Entidades
 
         protected override double CargoDeEstacionamiento()
         {
-            return this.CostoEstadia;
+            return valorHora * ((this.HoraEgreso - this.HoraIngreso).TotalHours);
 
         }
 
         protected override string MostrarDatos()
         {
-            return $"****AUTOMOVIL*****"+this.Descripcion;
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"{base.MostrarDatos()}");
+            sb.AppendLine("****AUTOMOVIL *****");
+            sb.AppendLine($"{this.Descripcion}");
 
+            return sb.ToString();
         }
 
-        public new string ToString()
+        public override string ToString()
         {
             return MostrarDatos();
         }

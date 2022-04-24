@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Entidades
 {
-    public enum Evehiculos
+    public enum EVehiculos
     { 
         Automovil,
         Moto
@@ -19,21 +19,6 @@ namespace Entidades
             this.patente = Patente;
             this.horaIngreso = horaIngreso;
         }
-
-        public string Patente
-        {
-            get
-            {
-                return this.patente;
-            }
-            set
-            {
-                if (value.Length>6 && value.Length < 7) 
-                {
-                    this.patente = value;
-                }
-            }
-        }
         public abstract double CostoEstadia
         {
             get;
@@ -43,8 +28,9 @@ namespace Entidades
         public abstract string Descripcion
         {
             get;
-  
+
         }
+
         public DateTime HoraEgreso
         {
             get
@@ -73,11 +59,21 @@ namespace Entidades
             }
         }
 
-        protected virtual double CargoDeEstacionamiento() 
-        { 
-
-        
+        public string Patente
+        {
+            get
+            {
+                return this.patente;
+            }
+            set
+            {
+                if (this.ValidarPatente(value))
+                {
+                    this.patente = value;
+                }
+            }
         }
+        protected abstract double CargoDeEstacionamiento();
 
         protected virtual string MostrarDatos()
         {
@@ -100,7 +96,14 @@ namespace Entidades
 
         private bool ValidarPatente(string patente)
         {
-            return patente==(this.Patente);    
+            bool retornoAux=false;
+
+            if (!string.IsNullOrEmpty(patente) && patente.Length >= 6 && patente.Length <= 7)
+            {
+                retornoAux = true;
+            }
+
+            return retornoAux;    
         }
     }
 }
