@@ -6,14 +6,15 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public enum ETipo
-    {
-        Ciclomotor,
-        Scooter,
-        Sport
-    }
     public sealed class Moto:Vehiculo
     {
+        public enum ETipo
+        {
+            Ciclomotor,
+            Scooter,
+            Sport
+        }
+
         private ETipo tipo;
         private static double valorHora;
 

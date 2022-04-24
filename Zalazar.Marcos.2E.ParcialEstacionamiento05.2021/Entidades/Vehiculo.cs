@@ -3,13 +3,14 @@ using System.Text;
 
 namespace Entidades
 {
-    public enum EVehiculos
-    { 
-        Automovil,
-        Moto
-    }
     public abstract class Vehiculo
     {
+        public enum EVehiculos
+        {
+            Automovil,
+            Moto
+        }
+
         private DateTime horaEgreso;
         private DateTime horaIngreso;
         private string patente;
