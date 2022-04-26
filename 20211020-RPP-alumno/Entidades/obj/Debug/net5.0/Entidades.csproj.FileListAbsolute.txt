@@ -1,0 +1,48 @@
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\Entidades.deps.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\Entidades.deps.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.pdb
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\Entidades.deps.json
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\Entidades.dll
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\Entidades.pdb
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.dll
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.pdb
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\Entidades\obj\Debug\net5.0\ref\Entidades.dll

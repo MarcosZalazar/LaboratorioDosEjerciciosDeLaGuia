@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.Competencia">
+    <Position X="7" Y="2.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAAAKAQAACgAAAAAAAAAAAAAAAAABAAiA=</HashCode>
+      <FileName>Competencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Equipo">
+    <Position X="3" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAogAAQAAAACCAkAAAgAAAAEAAIAAFAQAAAQAAAiQ=</HashCode>
+      <FileName>Equipo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.EquipoBasket">
+    <Position X="0.75" Y="6" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.EquipoBasket.ELiga">
+        <TypeIdentifier>
+          <NewMemberFileName>EquipoBasket.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EquipoBasket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.EquipoFutbol">
+    <Position X="8.25" Y="7.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>EquipoFutbol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

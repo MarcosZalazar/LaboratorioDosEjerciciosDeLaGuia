@@ -1,0 +1,62 @@
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.deps.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.runtimeconfig.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.runtimeconfig.dev.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\ref\FrmTorneo.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.FrmTorneo.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.csproj.GenerateResource.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.AssemblyInfoInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.AssemblyInfo.cs
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\ref\FrmTorneo.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C2 2021\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.genruntimeconfig.cache
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.exe
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.deps.json
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.runtimeconfig.json
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.runtimeconfig.dev.json
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.dll
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.pdb
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\Entidades.dll
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\Entidades.pdb
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.csproj.AssemblyReference.cache
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.FrmTorneo.resources
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.csproj.GenerateResource.cache
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.AssemblyInfoInputs.cache
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.AssemblyInfo.cs
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.csproj.CoreCompileInputs.cache
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.csproj.CopyComplete
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.dll
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\refint\FrmTorneo.dll
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.pdb
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.genruntimeconfig.cache
+E:\Facultad\5-Ayudantia\2021 - DIV C\Proyectos C#\C2 2021\Parciales\Propios\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\ref\FrmTorneo.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.exe
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.deps.json
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.runtimeconfig.json
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.runtimeconfig.dev.json
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\FrmTorneo.pdb
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.FrmTorneo.resources
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.csproj.CopyComplete
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\refint\FrmTorneo.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.pdb
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\FrmTorneo.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\20211020-RPP-alumno\FrmTorneo\obj\Debug\net5.0-windows\ref\FrmTorneo.dll

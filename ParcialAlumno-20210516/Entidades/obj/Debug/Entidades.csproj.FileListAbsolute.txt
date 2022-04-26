@@ -1,0 +1,18 @@
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Entidades\bin\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Entidades\bin\Debug\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Entidades\bin\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Entidades\bin\Debug\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\ParcialAlumno-20210516\Entidades\bin\Debug\Entidades.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\ParcialAlumno-20210516\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\ParcialAlumno-20210516\Entidades\obj\Debug\Entidades.pdb
