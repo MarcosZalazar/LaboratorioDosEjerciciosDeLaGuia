@@ -1,6 +1,6 @@
 ﻿namespace Vista
 {
-    partial class Form1
+    partial class FrmMoneda
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmMoneda));
             this.lblEuro = new System.Windows.Forms.Label();
             this.lblCotizacion = new System.Windows.Forms.Label();
             this.btnLockCotizacion = new System.Windows.Forms.Button();
@@ -143,6 +143,7 @@
             this.btnConvertEuro.TabIndex = 8;
             this.btnConvertEuro.Text = "->";
             this.btnConvertEuro.UseVisualStyleBackColor = true;
+            this.btnConvertEuro.Click += new System.EventHandler(this.btnConvertEuro_Click);
             // 
             // btnConvertDolar
             // 
@@ -152,6 +153,7 @@
             this.btnConvertDolar.TabIndex = 9;
             this.btnConvertDolar.Text = "->";
             this.btnConvertDolar.UseVisualStyleBackColor = true;
+            this.btnConvertDolar.Click += new System.EventHandler(this.btnConvertDolar_Click);
             // 
             // btnConvertPeso
             // 
@@ -161,6 +163,7 @@
             this.btnConvertPeso.TabIndex = 10;
             this.btnConvertPeso.Text = "->";
             this.btnConvertPeso.UseVisualStyleBackColor = true;
+            this.btnConvertPeso.Click += new System.EventHandler(this.btnConvertPeso_Click);
             // 
             // txtEuroAEuro
             // 
@@ -231,6 +234,7 @@
             this.txtCotizacionEuro.Name = "txtCotizacionEuro";
             this.txtCotizacionEuro.Size = new System.Drawing.Size(100, 23);
             this.txtCotizacionEuro.TabIndex = 20;
+            this.txtCotizacionEuro.Leave += new System.EventHandler(this.txtCotizacionEuro_Leave);
             // 
             // txtCotizacionDolar
             // 
@@ -245,6 +249,7 @@
             this.txtCotizacionPeso.Name = "txtCotizacionPeso";
             this.txtCotizacionPeso.Size = new System.Drawing.Size(100, 23);
             this.txtCotizacionPeso.TabIndex = 22;
+            this.txtCotizacionPeso.Leave += new System.EventHandler(this.txtCotizacionPeso_Leave);
             // 
             // lblEuroA
             // 
@@ -273,7 +278,7 @@
             this.lblPesoA.TabIndex = 25;
             this.lblPesoA.Text = "Peso";
             // 
-            // Form1
+            // FrmMoneda
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -307,9 +312,10 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "Form1";
+            this.Name = "FrmMoneda";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Conversor";
+            this.Load += new System.EventHandler(this.FrmMoneda_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
