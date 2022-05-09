@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba", "Prueba\Prueba.csproj", "{AE80F470-B9BA-4B1F-AF6C-1E058915F669}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prueba", "Prueba\Prueba.csproj", "{AE80F470-B9BA-4B1F-AF6C-1E058915F669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaNegocio", "LogicaNegocio\LogicaNegocio.csproj", "{E501ADDD-E0D3-4632-9269-F05F52958841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStringExtendido", "TestStringExtendido\TestStringExtendido.csproj", "{76909350-1EE7-4197-B1EC-7A06A55B64BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{AE80F470-B9BA-4B1F-AF6C-1E058915F669}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE80F470-B9BA-4B1F-AF6C-1E058915F669}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE80F470-B9BA-4B1F-AF6C-1E058915F669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E501ADDD-E0D3-4632-9269-F05F52958841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E501ADDD-E0D3-4632-9269-F05F52958841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E501ADDD-E0D3-4632-9269-F05F52958841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E501ADDD-E0D3-4632-9269-F05F52958841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76909350-1EE7-4197-B1EC-7A06A55B64BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76909350-1EE7-4197-B1EC-7A06A55B64BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76909350-1EE7-4197-B1EC-7A06A55B64BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76909350-1EE7-4197-B1EC-7A06A55B64BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

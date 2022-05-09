@@ -7,10 +7,14 @@ namespace Sobrescrito
     {
         static void Main(string[] args)
         {
-            Console.Title = "Ejercicio Sobre-Sobrescrito";
-            Sobrescrito objetoSobrescrito = new Sobrescrito();
+            //Ejercicio I01 - Sobre-sobrescribiendo esas advertencias (Unidad 9 Polimorfismo)
 
-            Console.WriteLine(objetoSobrescrito.ToString());
+            Console.Title = "Ejercicio Sobre-Sobrescrito";
+            Sobrescrito objetoSobrescrito = new SobreSobrescrito();
+
+            Console.WriteLine(objetoSobrescrito.MiMetodo());
+
+            Console.WriteLine("----------------------------------------------");
 
             string objeto = "¡Este es mi método ToString sobrescrito!";
 

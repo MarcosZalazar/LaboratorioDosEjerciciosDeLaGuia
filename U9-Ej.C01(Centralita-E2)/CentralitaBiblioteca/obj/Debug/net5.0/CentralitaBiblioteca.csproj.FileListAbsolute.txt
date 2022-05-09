@@ -1,0 +1,24 @@
+C:\Users\Marcos\Desktop\Zalazar.Marcos.2E\U8-Ej.C03(Centralita-E1)\CentralitaBiblioteca\bin\Debug\net5.0\CentralitaBiblioteca.deps.json
+C:\Users\Marcos\Desktop\Zalazar.Marcos.2E\U8-Ej.C03(Centralita-E1)\CentralitaBiblioteca\bin\Debug\net5.0\CentralitaBiblioteca.dll
+C:\Users\Marcos\Desktop\Zalazar.Marcos.2E\U8-Ej.C03(Centralita-E1)\CentralitaBiblioteca\bin\Debug\net5.0\CentralitaBiblioteca.pdb
+C:\Users\Marcos\Desktop\Zalazar.Marcos.2E\U8-Ej.C03(Centralita-E1)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\Zalazar.Marcos.2E\U8-Ej.C03(Centralita-E1)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\Zalazar.Marcos.2E\U8-Ej.C03(Centralita-E1)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\Zalazar.Marcos.2E\U8-Ej.C03(Centralita-E1)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\Zalazar.Marcos.2E\U8-Ej.C03(Centralita-E1)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Zalazar.Marcos.2E\U8-Ej.C03(Centralita-E1)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.dll
+C:\Users\Marcos\Desktop\Zalazar.Marcos.2E\U8-Ej.C03(Centralita-E1)\CentralitaBiblioteca\obj\Debug\net5.0\refint\CentralitaBiblioteca.dll
+C:\Users\Marcos\Desktop\Zalazar.Marcos.2E\U8-Ej.C03(Centralita-E1)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.pdb
+C:\Users\Marcos\Desktop\Zalazar.Marcos.2E\U8-Ej.C03(Centralita-E1)\CentralitaBiblioteca\obj\Debug\net5.0\ref\CentralitaBiblioteca.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.C01(Centralita-E2)\CentralitaBiblioteca\bin\Debug\net5.0\CentralitaBiblioteca.deps.json
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.C01(Centralita-E2)\CentralitaBiblioteca\bin\Debug\net5.0\CentralitaBiblioteca.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.C01(Centralita-E2)\CentralitaBiblioteca\bin\Debug\net5.0\CentralitaBiblioteca.pdb
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.C01(Centralita-E2)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.C01(Centralita-E2)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.C01(Centralita-E2)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.C01(Centralita-E2)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.C01(Centralita-E2)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.C01(Centralita-E2)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.C01(Centralita-E2)\CentralitaBiblioteca\obj\Debug\net5.0\refint\CentralitaBiblioteca.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.C01(Centralita-E2)\CentralitaBiblioteca\obj\Debug\net5.0\CentralitaBiblioteca.pdb
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.C01(Centralita-E2)\CentralitaBiblioteca\obj\Debug\net5.0\ref\CentralitaBiblioteca.dll

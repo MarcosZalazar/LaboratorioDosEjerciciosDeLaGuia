@@ -1,5 +1,0 @@
-C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.csproj.AssemblyReference.cache
-C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfoInputs.cache
-C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfo.cs
-C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.csproj.CoreCompileInputs.cache

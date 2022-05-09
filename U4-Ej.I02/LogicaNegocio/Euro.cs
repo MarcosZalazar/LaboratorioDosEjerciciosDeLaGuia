@@ -13,7 +13,7 @@ namespace LogicaNegocio
 
         static Euro()
         {
-            cotzRespectoDolar = 1 / 1.08;
+            cotzRespectoDolar = 1 / 1.17;
         }
         public Euro(double cantidad)
         {

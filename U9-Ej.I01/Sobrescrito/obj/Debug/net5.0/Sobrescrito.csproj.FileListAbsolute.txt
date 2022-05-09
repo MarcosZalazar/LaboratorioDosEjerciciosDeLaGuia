@@ -1,0 +1,16 @@
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\bin\Debug\net5.0\Sobrescrito.exe
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\bin\Debug\net5.0\Sobrescrito.deps.json
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\bin\Debug\net5.0\Sobrescrito.runtimeconfig.json
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\bin\Debug\net5.0\Sobrescrito.runtimeconfig.dev.json
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\bin\Debug\net5.0\Sobrescrito.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\bin\Debug\net5.0\Sobrescrito.pdb
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\obj\Debug\net5.0\Sobrescrito.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\obj\Debug\net5.0\Sobrescrito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\obj\Debug\net5.0\Sobrescrito.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\obj\Debug\net5.0\Sobrescrito.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\obj\Debug\net5.0\Sobrescrito.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\obj\Debug\net5.0\Sobrescrito.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\obj\Debug\net5.0\refint\Sobrescrito.dll
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\obj\Debug\net5.0\Sobrescrito.pdb
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\obj\Debug\net5.0\Sobrescrito.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\FACULTAD\UTN\Carrera TUP\Programacion-Laboratorio2\Ejercicios de la guia resueltos\U9-Ej.I01\Sobrescrito\obj\Debug\net5.0\ref\Sobrescrito.dll

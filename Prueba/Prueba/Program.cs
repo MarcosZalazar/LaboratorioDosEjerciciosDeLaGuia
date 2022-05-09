@@ -1,4 +1,5 @@
 ﻿using System;
+using LogicaNegocio;
 
 namespace Prueba
 {
@@ -6,22 +7,12 @@ namespace Prueba
     {
         static void Main(string[] args)
         {
-            string binario;
-            bool esBinario = true;
-
-            binario = "1010";
-
-            for (int i = 0; i < binario.Length; i++)
+            for (int i = 1; i < 100; i++)
             {
-                if (binario[i] != '0' && binario[i] != '1')
-                {
-                    esBinario = false;
-                    break;
-                }
+                Console.WriteLine(i.FizzBuzz());
             }
-            
-            Console.WriteLine("{0}", esBinario);
-            Console.WriteLine("{0}", binario);
+
+            Console.ReadKey();
         }
     }
 }

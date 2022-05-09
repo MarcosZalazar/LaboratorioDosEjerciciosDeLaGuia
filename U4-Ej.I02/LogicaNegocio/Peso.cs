@@ -13,7 +13,7 @@ namespace LogicaNegocio
 
         static Peso()
         {
-            cotzRespectoDolar = 1 / 66;
+            cotzRespectoDolar = 1/102.65;
         }
         public Peso(double cantidad)
         {
